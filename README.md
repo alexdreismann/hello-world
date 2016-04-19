@@ -1,2 +1,2 @@
 # hello-world
-Educational repository containing absolute nothing important.
+Educational repository containing absolutely nothing important.
